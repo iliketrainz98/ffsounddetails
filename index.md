@@ -8,7 +8,8 @@ Here are some details of the procedures of how to use the sound system. Please c
 2. **Connect the speakers**, switch on, and make sure these are at the **correct volume**
 3. Connect to the mixer using the app and load the `Felonious Funk Master` snapshot (folder icon to the top right) in the Mixing Station App.
 4. Turn up the L/R fader to **-10dB**. *This is found under* `FX Snd/Main` *on the right handside. If you need more volume, turn the speakers up.*
-5. Unmute the Aux channel (ensure the `Mute Enable` button is highlighted), and check you get volume out of both speakers. This is found under `Aux/FX Ret` on the right hand-side.
+5. Unmute the Aux channel (ensure the `Mute Enable` button is highlighted), and check you get volume out of both speakers. This is found under `Aux/FX Ret` on the right hand-side. (You can breathe now)
+6. (*Optional - If Time*) Ring out the system (see below)
 
 ### Soundcheck
 1. For **each** channel/instrument:
