@@ -1,4 +1,4 @@
-# Felonious Funk Sound Details
+# Felonious Funk Mixer Details
 Here are some details of the procedures of how to use the sound system. Please call me if there are ever big issues! xx
 
 ## Setup
