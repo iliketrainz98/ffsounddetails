@@ -12,7 +12,7 @@ Here are some details of the procedures of how to use the sound system. Please c
 
 ### Soundcheck
 1. For **each** channel/instrument:
-    1. Ensure channel is **muted**
+    1. Ensure the channel is **muted**
     2. Get player to **play/sing** at their **loudest volume**. *NB for drums, ask for single hits on each drum e.g. Kick, Snare etc., and then the whole kit*
     3. Set the gain so that the meter to the side of the fader is **on average `-18dB`**. You can do this by tapping once on the channel name (e.g. `Kick`) and you should find gain on the top left hand side.
     4. **Unmute** the channel
