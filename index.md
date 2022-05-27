@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Felonious Funk Sound Details
+Here are some details of the procedures of how to use the sound system
 
-You can use the [editor on GitHub](https://github.com/iliketrainz98/ffsounddetails/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Setup
+1. PLug in mixer to power, connect and switch on the router.
+2. Connect speakers, switch on, and make sure these are at the correct volume
+3. Connect to the mixer using the app and load the "Felonious Funk Master" snapshot in the app. (folder icon to the top right)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Packdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Troubleshooting
+No sound coming out?
 
-# Header 1
-## Header 2
-### Header 3
+If signal is being detected (i.e. the meter next to the fader is showing sound coming through), there is an issue with the output, follow these steps:
+1. Is the Master (L/R) fader turned down/muted?
+2. Is the DCA (e.g Band Fader) turned down?
+3. Is the channel muted?
+4. Are the speakers turned on/plugged in
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iliketrainz98/ffsounddetails/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If no signal is being detected, there is an issue with the source:
+1. Is the source plugged in (mic, instrument etc.) to the correct channel?
+2. Is the source turned on?
+3. Is the cable faulty - try another cable.
