@@ -30,8 +30,8 @@ I'll writeup a guide shortly, but the concept is explained in [This Video](https
 
 ## During the Gig
 ### Between the sets
-1. Turn up the `Aux` fader to play break music
-2. Turn down the `Band` DCA all the way. This stops the sound of the band instruments coming out the speakers. **Ensure your turn this back up again before starting**.
+1. Turn up the `Aux` fader to play break music. This is found under `Aux/FX Ret` on the right hand-side.
+2. Turn down the `Band` DCA all the way. This stops the sound of the band instruments coming out the speakers. **Ensure your turn this back up again before starting**. This is found under `DCA` on the right hand-side.
 
 ## Packdown
 1. Turn **down the L/R fader**. This is found under `FX Snd/Main` on the right hand-side.
@@ -42,7 +42,7 @@ I'll writeup a guide shortly, but the concept is explained in [This Video](https
 
 ## Top Tips:
 * Keep the mixer app up throughout the gig
-* Be careful not to adjust someone else's in ear mix by accident
+* Be careful not to adjust someone else's in ear mix by accident! This is done if you select one of the busses e.g. `Tom` by accident. Tap on the bus again e.g. `Tom` to **return to the L/R main mix**. *Note: the mix you are editing is always shown on the top left of the app*.
 
 ## Troubleshooting
 No sound coming out? *(Aghh panic....)*
