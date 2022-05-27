@@ -4,17 +4,17 @@ Here are some details of the procedures of how to use the sound system
 ## Setup
 
 ### Initial Setup
-1. Plug in mixer to power, connect and switch on the router.
-2. Connect speakers, switch on, and make sure these are at the correct volume
-3. Connect to the mixer using the app and load the "Felonious Funk Master" snapshot in the app. (folder icon to the top right) in the Mixing Station App.
-4. Turn up the L/R fader to **-10dB**. This is found under "FX Snd/Main" on the right handside. If you need more volume, turn the speakers up.
-5. Unmute the Aux channel (ensure the "Mute Enable" button is highlighted), and check you get volume out of both speakers. This is found under "Aux/FX Ret" on the righthandside.
+1. Plug in/switch on the **router and mixer**
+2. **Connect the speakers**, switch on, and make sure these are at the **correct volume**
+3. Connect to the mixer using the app and load the `Felonious Funk Master` snapshot (folder icon to the top right) in the Mixing Station App.
+4. Turn up the L/R fader to **-10dB**. *This is found under `FX Snd/Main` on the right handside. If you need more volume, turn the speakers up.*
+5. Unmute the Aux channel (ensure the `Mute Enable` button is highlighted), and check you get volume out of both speakers. This is found under `Aux/FX Ret` on the right hand-side.
 
 ### Soundcheck
 1. For **each** channel/instrument:
     1. Ensure channel is **muted**
     2. Get player to **play/sing** at their **loudest volume**. *NB for drums, ask for single hits on each drum e.g. Kick, Snare etc., and then the whole kit*
-    3. Set the gain so that the meter to the side of the fader is **on average-18dB**. You can do this by tapping once on the channel name (e.g 'Kick') and you should find gain on the top left hand side.
+    3. Set the gain so that the meter to the side of the fader is **on average `-18dB`**. You can do this by tapping once on the channel name (e.g `Kick`) and you should find gain on the top left hand side.
     4. **Unmute** the channel
     5. Adjust the volume in the room until the mix feels right.
 2. Start by getting individual instruments sounding good, and then adjust the mix until you are happy
