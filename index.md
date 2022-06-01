@@ -81,7 +81,7 @@ Make sure you have the right mix on the app, and plug in:
 | 7  | Matt (Horns)       |
 | 8  | Amy (Horns)        |
 
-**Note: if you are using a monitor wedge instead of in-ear monitors for Vocal/Horns, then you need to plug into `Aux 6` on the back of the mixer.**
+*Note: if you are using a monitor wedge instead of in-ear monitors for Vocal/Horns, then you need to plug into `Aux 6` on the back of the mixer.*
 
 ## Mixer Setup
 
