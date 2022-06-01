@@ -1,20 +1,21 @@
-# Felonious Funk Sound Mixer Details
+# Felonious Funk Production Details
 Here are some details of the procedures of how to use the sound system. Please call me if there are ever big issues! xx
 
 ## Kit List
 You need the following for a FF Gig:
 
-- Big Band Gear
+- **Big Band Gear**
   - XLR Cables (As many as Possible)
   - Jack Cables
-  - Drum Mics (Kick and Snare)
-  - Drums
-  - Keys (Inc. Power and Pedals)
-  - Bass Amp
-  - Guitar Amp
-  - Snake
+  - 1x Kick Mic
+  - 2x Snare Mic
+  - 1x Drums
+  - 1x Keys (Inc. Power and Pedals)
+  - 1x Bass Amp
+  - 1x Guitar Amp
+  - 1x Snake
 
-- Felonious Gear
+- **Felonious Gear**
   - 2x Lighting Gear + Stands
   - 2x Speaker Stands (Inc Case)
   - 2x Speakers
@@ -24,10 +25,11 @@ You need the following for a FF Gig:
   - 2x SM58
   - 2x Extension Reel (20m)
   - 2x 6-Way Power Strips (Black)
+  - 4x Kettle Leads
 
-- Personal Gear
+- **Personal Gear**
   - All:
-      - Phone Charger
+      - 1x Phone Charger
     - Matt Hill:
       - 2x SM57's
       - 2x Mic Stands
@@ -41,7 +43,7 @@ You need the following for a FF Gig:
 
 ## Patch List
 ### Inputs
-Plug in at rear
+All inputs plug in at rear
 
 | No.| Item              |
 |----|-------------------|
@@ -79,8 +81,9 @@ Make sure you have the right mix on the app, and plug in:
 | 7  | Matt (Horns)       |
 | 8  | Amy (Horns)        |
 
+**Note: if you are using a monitor wedge instead of in-ear monitors for Vocal/Horns, then you need to plug into `Aux 6` on the back of the mixer.**
 
-## Setup
+## Mixer Setup
 
 ### Initial Setup
 1. Plug in/switch on the **router and mixer**
