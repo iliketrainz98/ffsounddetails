@@ -11,6 +11,8 @@ Here are some details of the procedures of how to use the sound system. Please c
 5. Unmute the Aux channel (ensure the `Mute Enable` button is highlighted), and check you get volume out of both speakers. This is found under `Aux/FX Ret` on the right hand-side. (You can breathe now)
 6. (*Optional - If Time*) Ring out the system (see below)
 
+*Note: In Ear Monitors are turned on by default, but the 'Wedge' send master fader is turned down by default (to avoid feedback). You can adjust the master volume under `Mix` in the mixing station app, or the master fader in MX-Q*
+
 ### Soundcheck
 1. For **each** channel/instrument:
     1. Ensure the channel is **muted**
