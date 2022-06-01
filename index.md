@@ -5,8 +5,10 @@ Here are some details of the procedures of how to use the sound system. Please c
 You need the following for a FF Gig:
 
 - **Big Band Gear**
-  - XLR Cables (As many as Possible)
-  - Jack Cables
+  - XLR Cables (Spares are always helpful!)
+    - x12 Normally
+    - x16 If Recording drums
+  - 2x Jack Cables
   - 1x Kick Mic
   - 2x Snare Mic
   - 1x Drums
@@ -16,6 +18,7 @@ You need the following for a FF Gig:
   - 1x Snake
 
 - **Felonious Gear**
+  - 1x Jack to Female XLR (For Connecting Monitor)
   - 2x Lighting Gear + Stands
   - 2x Speaker Stands (Inc Case)
   - 2x Speakers
