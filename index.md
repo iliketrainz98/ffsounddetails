@@ -4,6 +4,41 @@ Here are some details of the procedures of how to use the sound system. Please c
 ## Kit List
 You need the following for a FF Gig:
 
+- Big Band Gear
+  - XLR Cables (As many as Possible)
+  - Jack Cables
+  - Drum Mics (Kick and Snare)
+  - Drums
+  - Keys (Inc. Power and Pedals)
+  - Bass Amp
+  - Guitar Amp
+  - Snake
+
+- Felonious Gear
+  - 2x Lighting Gear + Stands
+  - 2x Speaker Stands (Inc Case)
+  - 2x Speakers
+  - 1x Horn/Vocal Monitor
+  - 1x Tall Mic Stand (Vocal)
+  - 1x Short Mic Stand (Kick Drum)
+  - 2x SM58
+  - 2x Extension Reel (20m)
+  - 2x 6-Way Power Strips (Black)
+
+- Personal Gear
+  - All:
+      - Phone Charger
+    - Matt Hill:
+      - 2x SM57's
+      - 2x Mic Stands
+      - Long Jack Cables
+      - XLR's
+    - Tom Gill
+      - 1x Sound Desk Including:
+        - 1x Router (Inside)
+        - 4x In Ear Monitor Extension Cables
+
+
 ## Patch List
 ### Inputs
 Plug in at rear
