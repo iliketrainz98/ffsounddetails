@@ -5,6 +5,9 @@ Here are some details of the procedures of how to use the sound system. Please c
 You need the following for a FF Gig:
 
 ## Patch List
+### Inputs
+Plug in at rear
+
 | No.| Item              |
 |----|-------------------|
 | 1  | Bass              |
@@ -25,6 +28,21 @@ You need the following for a FF Gig:
 | 16 | Crowd Mic         |
 | 17 | Aux L             |
 | 18 | Aux R             |
+
+### In-Ear Monitor Outputs
+Plug in at front
+Make sure you have the right mix on the app, and plug in:
+
+| No.| Item               |
+|----|--------------------|
+| 1  | Tom                |
+| 2  | Max                |
+| 3  | Henry              |
+| 4  | Dom                |
+| 5  | Grace              |
+| 6  | Spare (Grace's Mix)|
+| 7  | Matt (Horns)       |
+| 8  | Amy (Horns)        |
 
 
 ## Setup
