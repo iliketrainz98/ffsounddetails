@@ -7,7 +7,7 @@ You need the following for a FF Gig:
 - **Big Band Gear**
   - XLR Cables (Spares are always helpful!)
     - x12 Normally
-    - x16 If Recording drums
+    - x16 If Recording Drums
   - 2x Jack Cables
   - 1x Kick Mic
   - 2x Snare Mic
@@ -18,26 +18,29 @@ You need the following for a FF Gig:
   - 1x Snake
 
 - **Felonious Gear**
-  - 1x Jack to Female XLR (For Connecting Monitor)
+
   - 2x Lighting Gear + Stands
   - 2x Speaker Stands (Inc Case)
   - 2x Speakers
   - 1x Horn/Vocal Monitor
   - 1x Tall Mic Stand (Vocal)
   - 1x Short Mic Stand (Kick Drum)
-  - 2x SM58
+  - 2x SM58 (Vocal + MD)
   - 2x Extension Reel (20m)
-  - 2x 6-Way Power Strips (Black)
-  - 4x Kettle Leads
+  - 1x White Power Strip
+  - 2x Long Kettle Lead (Speakers)
+  - 3x Short Kettle Lead (Monitor and Amps)
 
 - **Personal Gear**
   - All:
       - 1x Phone Charger
     - Matt Hill:
-      - 2x SM57's
+      - 2x SM57's (Horns)
+      - 1x SM58 (Vocal)
       - 2x Mic Stands
+      - 1x Jack to Female XLR (For Connecting Monitor)
       - Long Jack Cables
-      - XLR's
+      - Spare XLR's
     - Tom Gill
       - 1x Sound Desk Including:
         - 1x Router (Inside)
