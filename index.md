@@ -25,11 +25,11 @@ You need the following for a FF Gig:
   - 1x Horn/Vocal Monitor
   - 1x Tall Mic Stand (Vocal)
   - 1x Short Mic Stand (Kick Drum)
-  - 2x SM58 (Vocal + MD)
   - 2x Extension Reel (20m)
   - 1x White Power Strip
   - 2x Long Kettle Lead (Speakers)
   - 3x Short Kettle Lead (Monitor and Amps)
+  - ~~x SM58 (Vocal + MD)~~ *Until Further Notice, use Big Band's*
 
 - **Personal Gear**
   - All:
