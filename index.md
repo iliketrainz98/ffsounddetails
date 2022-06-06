@@ -49,7 +49,7 @@ You need the following for a FF Gig:
 
 ## Patch List
 ### Inputs
-All inputs plug in at rear
+All inputs plug in at rear of the mixer. Use the snake to connect the Vocals, Trumpet and Sax and connect the snake to the mixer. *Using the patch list below, channel 1 on the snake is 11 on the mixer, 2-->12, 3-->13 etc.*
 
 | No.| Item              |
 |----|-------------------|
