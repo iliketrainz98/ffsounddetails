@@ -5,12 +5,12 @@ Here are some details of the procedures of how to use the sound system. Please c
 You need the following for a FF Gig:
 
 - **Big Band Gear**
+  - *1x SM57 (Until Matt Get's His Back)*
   - XLR Cables (Spares are always helpful!)
     - x12 Normally
-    - x16 If Recording Drums
   - 2x Jack Cables
   - 1x Kick Mic
-  - 2x Snare Mic
+  - 1x Snare Mic
   - 1x Drums
   - 1x Keys (Inc. Power and Pedals)
   - 1x Bass Amp
@@ -23,12 +23,12 @@ You need the following for a FF Gig:
   - 2x Speaker Stands (Inc Case)
   - 2x Speakers
   - 1x Horn/Vocal Monitor
-  - 1x Tall Mic Stand (Vocal)
+  - ~~1x Tall Mic Stand (Vocal)~~ *2x Tall Mic Stand (Vocal + Sax) until Matt get's his stand back from BH*
   - 1x Short Mic Stand (Kick Drum)
   - 2x Extension Reel (20m)
   - 1x White Power Strip
-  - 2x Long Kettle Lead (Speakers)
-  - 3x Short Kettle Lead (Monitor and Amps)
+  - 2x Long Kettle Lead (Labelled Speakers)
+  - 3x Short Kettle Lead (Labelled Monitor, Guitar Amp, Bass Amp)
   - ~~x SM58 (Vocal + MD)~~ *Until Further Notice, use Big Band's*
 
 - **Personal Gear**
@@ -37,7 +37,7 @@ You need the following for a FF Gig:
     - Matt Hill:
       - 2x SM57's (Horns)
       - 1x SM58 (Vocal)
-      - 2x Mic Stands
+      - ~~2x Mic Stands~~ *1x Until Matt Retreives his from HPOB*
       - 1x Jack to Female XLR (For Connecting Monitor)
       - Long Jack Cables
       - Spare XLR's
@@ -93,7 +93,7 @@ Make sure you have the right mix on the app, and plug in:
 
 ### Initial Setup
 1. Plug in/switch on the **router and mixer**
-2. **Connect the speakers**, switch on, and make sure these are at the **correct volume**
+2. **Connect the speakers**, switch on, and make sure these are at the **correct volume** (knob pointing to **12 o'clock**).
 3. Connect to the mixer using the app and load the `FF Master - MM YY` snapshot (folder icon to the top right) in the Mixing Station App.
 4. Turn up the L/R fader to **`-15dB`**. *This is found under* `FX Snd/Main` *on the right handside. If you need more volume, turn the speakers up.*
 5. Unmute the Aux channel (ensure the `Mute Enable` button is highlighted), and check you get volume out of both speakers. This is found under `Aux/FX Ret` on the right hand-side. (You can breathe now)
@@ -132,8 +132,21 @@ I'll writeup a guide shortly, but the concept is explained in [This Video](https
 
 
 ## Top Tips:
-* Keep the mixer app up throughout the gig
-* Be careful not to adjust someone else's in ear mix by accident! This is done if you select one of the busses e.g. `Tom` by accident. Tap on the bus again e.g. `Tom` to **return to the L/R main mix**. *Note: the mix you are editing is always shown on the top left of the app*.
+- Keep the mixer app up throughout the gig
+- Be careful not to adjust someone else's in ear mix by accident! This is done if you select one of the busses e.g. `Tom` by accident. Tap on the bus again e.g. `Tom` to **return to the L/R main mix**. *Note: the mix you are editing is always shown on the top left of the app*.
+- If running short on time, you **need to prioritise what to get working through the sounddesk**. Stuff down the bottom of the list is 'nice to have's'. It's worth making sure the essentials work and sound good before trying anything else In order this is:
+  1. Vocal Mic
+  2. Keys
+  3. Horn Mics
+  4. Monitor Wedge
+  5. Guitar, Bass
+  6. Kick
+  7. Snare
+  8. In Ear Monitor
+  9. Recording
+
+-
+
 
 ## Troubleshooting
 No sound coming out? *(Aghh panic....)*
