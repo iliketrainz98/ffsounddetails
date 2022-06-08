@@ -97,7 +97,7 @@ If you are using a monitor wedge instead of in-ear monitors for Vocal/Horns, the
 3. Connect to the mixer using the app and load the `FF Master - MM YY` snapshot (folder icon to the top right) in the Mixing Station App.
 4. Turn up the L/R fader to **`-15dB`**. *This is found under* `FX Snd/Main` *on the right handside. If you need more volume, turn the speakers up.*
 5. Unmute the Aux channel (ensure the `Mute Enable` button is highlighted), and check you get volume out of both speakers. This is found under `Aux/FX Ret` on the right hand-side. (You can breathe now)
-6. (*Optional - If Using a Monitor Wedge*) Select the `Wedge` mix on the mixing station app, and turn up the `Aux` channel to check you have music playing. **Note: Make sure you turn down the `Aux` channel on the Wedge send immediately afer, otherwise your break music will play thrugh the wedge when you begin your set!**
+6. (*Optional - If Using a Monitor Wedge*) Select the `Wedge` mix on the mixing station app, and turn up the `Aux` channel to check you have music playing. **Note: Make sure you turn down the `Aux` channel on the Wedge send immediately after, otherwise your break music will play through the wedge when you begin your set!**
   *Note: In Ear Monitors are turned on by default, but the 'Wedge' send master fader is turned down by default (to avoid feedback). You can adjust the master volume under `Mix` in the mixing station app, or the master fader in MX-Q*
 7. (*Optional - If Time*) Ring out the system (see below)
 
@@ -135,7 +135,7 @@ I'll writeup a guide shortly, but the concept is explained in [This Video](https
 
 ## Top Tips:
 - Keep the mixer app up throughout the gig
-- Be careful not to adjust someone else's in ear mix by accident! This is done if you select one of the busses e.g. `Tom` by accident. Tap on the bus again e.g. `Tom` to **return to the L/R main mix**. *Note: the mix you are editing is always shown on the top left of the app*.
+- Be careful not to adjust someone else's in ear mix by accident! This is done if you select one of the mixes e.g. `Tom` by accident. Tap on the bus again e.g. `Tom` to **return to the L/R main mix**. *Note: the mix you are editing is always shown on the top left of the app*.
 - If running short on time, you **need to prioritise what to get working through the sounddesk**. Stuff down the bottom of the list is 'nice to have's'. It's worth making sure the essentials work and sound good before trying anything else In order this is:
   1. Vocal Mic
   2. Keys
