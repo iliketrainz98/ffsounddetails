@@ -7,7 +7,7 @@ You need the following for a FF Gig:
 - **Big Band Gear**
   - *1x SM57 (Until Matt Get's His Back)*
   - XLR Cables (Spares are always helpful!)
-    - x12 Normally
+    - 12x Normally
   - 2x Jack Cables
   - 1x Kick Mic
   - 1x Snare Mic
@@ -18,7 +18,6 @@ You need the following for a FF Gig:
   - 1x Snake
 
 - **Felonious Gear**
-
   - 2x Lighting Gear + Stands
   - 2x Speaker Stands (Inc Case)
   - 2x Speakers
@@ -35,7 +34,7 @@ You need the following for a FF Gig:
   - All:
       - 1x Phone Charger
     - Matt Hill:
-      - 2x SM57's (Horns)
+      - ~~2x SM57's (Horns)~~ *1x SM57 (Until Matt Get's His Back)*
       - 1x SM58 (Vocal)
       - ~~2x Mic Stands~~ *1x Until Matt Retreives his from HPOB*
       - 1x Jack to Female XLR (For Connecting Monitor)
