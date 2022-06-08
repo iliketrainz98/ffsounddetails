@@ -83,10 +83,11 @@ Make sure you have the right mix on the app, and plug in:
 | 4  | Dom                    |
 | 5  | Grace                  |
 | 6  | Spare (Grace's Mix)    |
-| 7  | ~~Matt (Horns)~~       |
-| 8  | ~~Amy (Horns)~~        |
+| 7  | ~~Matt (Horns)~~ Use Wedge Instead (See Below)     |
+| 8  | ~~Amy (Horns)~~  Use Wedge Instead (See Below)      |
 
-*Note: if you are using a monitor wedge instead of in-ear monitors for Vocal/Horns, then you need to plug into `Aux 6` on the back of the mixer.*
+#### Monitor Wedge
+If you are using a monitor wedge instead of in-ear monitors for Vocal/Horns, then you need to plug into `Aux 6` on the back of the mixer.
 
 ## Mixer Setup
 
@@ -96,9 +97,11 @@ Make sure you have the right mix on the app, and plug in:
 3. Connect to the mixer using the app and load the `FF Master - MM YY` snapshot (folder icon to the top right) in the Mixing Station App.
 4. Turn up the L/R fader to **`-15dB`**. *This is found under* `FX Snd/Main` *on the right handside. If you need more volume, turn the speakers up.*
 5. Unmute the Aux channel (ensure the `Mute Enable` button is highlighted), and check you get volume out of both speakers. This is found under `Aux/FX Ret` on the right hand-side. (You can breathe now)
-6. (*Optional - If Time*) Ring out the system (see below)
+6. (*Optional - If Using a Monitor Wedge*) Select the `Wedge` mix on the mixing station app, and turn up the `Aux` channel to check you have music playing. **Note: Make sure you turn down the `Aux` channel on the Wedge send immediately afer, otherwise your break music will play thrugh the wedge when you begin your set!**
+  *Note: In Ear Monitors are turned on by default, but the 'Wedge' send master fader is turned down by default (to avoid feedback). You can adjust the master volume under `Mix` in the mixing station app, or the master fader in MX-Q*
+7. (*Optional - If Time*) Ring out the system (see below)
 
-*Note: In Ear Monitors are turned on by default, but the 'Wedge' send master fader is turned down by default (to avoid feedback). You can adjust the master volume under `Mix` in the mixing station app, or the master fader in MX-Q*
+
 
 ### Soundcheck
 1. For **each** channel/instrument:
