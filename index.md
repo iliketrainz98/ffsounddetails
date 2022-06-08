@@ -28,7 +28,7 @@ You need the following for a FF Gig:
   - 1x White Power Strip
   - 2x Long Kettle Lead (Labelled Speakers)
   - 3x Short Kettle Lead (Labelled Monitor, Guitar Amp, Bass Amp)
-  - ~~x SM58 (Vocal + MD)~~ *Until Further Notice, use Big Band's*
+  - ~~2x SM58 (Vocal + MD)~~ *Until Further Notice, use Big Band's*
 
 - **Personal Gear**
   - All:
@@ -72,19 +72,19 @@ All inputs plug in at rear of the mixer. Use the snake to connect the Vocals, Tr
 | 18 | Aux R             |
 
 ### In-Ear Monitor Outputs
-Plug in at front
+Plug in the headphone extensions at the front as per the labels.
 Make sure you have the right mix on the app, and plug in:
 
-| No.| Item               |
-|----|--------------------|
-| 1  | Tom                |
-| 2  | Max                |
-| 3  | Henry              |
-| 4  | Dom                |
-| 5  | Grace              |
-| 6  | Spare (Grace's Mix)|
-| 7  | Matt (Horns)       |
-| 8  | Amy (Horns)        |
+| No.| Item                   |
+|----|------------------------|
+| 1  | Tom                    |
+| 2  | Max                    |
+| 3  | Henry                  |
+| 4  | Dom                    |
+| 5  | Grace                  |
+| 6  | Spare (Grace's Mix)    |
+| 7  | ~~Matt (Horns)~~       |
+| 8  | ~~Amy (Horns)~~        |
 
 *Note: if you are using a monitor wedge instead of in-ear monitors for Vocal/Horns, then you need to plug into `Aux 6` on the back of the mixer.*
 
