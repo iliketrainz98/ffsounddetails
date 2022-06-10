@@ -108,7 +108,7 @@ If you are using a monitor wedge instead of in-ear monitors for Vocal/Horns, the
     1. Ensure the channel is **muted**
     2. Get player to **play/sing** at **normal volume**. *NB for drums, ask for single hits on each drum e.g. Kick, Snare etc., and then the whole kit*
     3. Set the gain so that the meter to the side of the fader is **on average `-18dBFS`**. You can do this by tapping once on the channel name (e.g. `Kick`) and you should find gain on the top left hand side.
-    4. Get the player to **play/sing** at their **loudest volume**, and decrease the gain (if necessary) to ensure the meter to the side of the fader **never goes above `-5dBFS`**. *(Note: Going above `0dBFS` will result in clipping)*
+    4. Get the player to **play/sing** at their **loudest volume**, and decrease the gain (if necessary) to ensure the meter to the side of the fader **never goes above `-7.5dBFS`**. *(Note: Going above `0dBFS` will result in clipping)*
     5. **Unmute** the channel
     6. Adjust the volume in the room until the mix feels right.
 2. Start by getting individual instruments sounding good, and then adjust the mix until you are happy
