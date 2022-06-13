@@ -12,7 +12,10 @@ You need the following for a FF Gig:
   - 1x Kick Mic
   - 1x Snare Mic
   - 1x Drums
-  - 1x Keys (Inc. Power and Pedals)
+  - 1x Keys
+    - Keys Stand
+    - Keys Power
+    - Keys Sustain Pedal
   - 1x Bass Amp
   - 1x Guitar Amp
   - 1x Snake
