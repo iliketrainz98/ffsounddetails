@@ -53,6 +53,8 @@ You need the following for a FF Gig:
 ### Inputs
 All inputs plug in at rear of the mixer. Use the snake to connect the Vocals, Trumpet and Sax and connect the snake to the mixer. *Using the patch list below, channel 1 on the snake is 11 on the mixer, 2-->12, 3-->13 etc.*
 
+**NOTE: Channel numbers to the RIGHT of the plug**
+
 | No.| Item              |
 |----|-------------------|
 | 1  | Bass              |
@@ -77,6 +79,8 @@ All inputs plug in at rear of the mixer. Use the snake to connect the Vocals, Tr
 ### In-Ear Monitor Outputs
 Plug in the headphone extensions at the front as per the labels.
 Make sure you have the right mix on the app, and plug in:
+
+**NOTE: Channel numbers to the RIGHT of the plug**
 
 | No.| Item                   |
 |----|------------------------|
