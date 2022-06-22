@@ -159,7 +159,7 @@ I'll writeup a guide shortly, but the concept is explained in [This Video](https
 
 
 ## Troubleshooting
-No sound coming out? *(Aghh panic....)*
+**"No sound is coming out! *(Aghh panic....)"**
 
 **If signal is being detected** (i.e. the meter next to the fader is showing sound coming through), there is an **issue with mixer OR the output**, follow these steps:
 1. Is the `Master (L/R)` fader **turned down/muted**?
@@ -172,3 +172,19 @@ If no signal is being detected, there is an issue with the source:
 2. Is the source **turned on**?
 3. Is the gain set **really low**?
 4. Is the **cable faulty**?
+
+
+**"I'm getting feedback - what do I do?"**
+
+Feedback can only come from mic'd instruments pointed into a speaker or monitor. Although another instrument (such as keys or bass) can create feedback, it will still come down to a microphone picking up this sound and amplifying it which creates the feedback.
+For our specific context, **feedback will most likely be coming from the Vocal Mic in either the PA speakers OR the Monitor**. The Trumpet and Sax mics are typically turned down significantly, and the drum mics should be gated (only turn on when sound is made) to reduce potential feedback.
+
+Before the gig starts, you can eliminate feedback by:
+1. Ringing out the PA and monitors (see above guide)
+2. Sound checking at the max volume you are going to be playing at. If the **vocal mic sounds like it is ringing slightly ('on the edge')**, this is an indication there is a problem.
+3. If your room is tricky, place a small gate on the vocal mic. This will turn the mic off when not being used. Make sure the threshold is not too high otherwise the mic will cut in and out.
+
+When feedback occurs during the gig:
+1. **Have the Master L/R Fader and any Monitor Faders to hand, and turn these down**
+2. You may need to turn down the mic from the monitors rather than the main PA
+3. Adjust the EQ on the vocal mic to remove some of the high end, or the problematic frequency (if you can hear it)
