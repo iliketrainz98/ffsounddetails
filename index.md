@@ -144,7 +144,7 @@ I'll writeup a guide shortly, but the concept is explained in [This Video](https
 ## Top Tips:
 - Keep the mixer app up throughout the gig
 - Be careful not to adjust someone else's in ear mix by accident! This is done if you select one of the mixes e.g. `Tom` by accident. Tap on the bus again e.g. `Tom` to **return to the L/R main mix**. *Note: the mix you are editing is always shown on the top left of the app*.
-- If running short on time, you **need to prioritise what to get working through the sounddesk**. Stuff down the bottom of the list is 'nice to have's'. It's worth making sure the essentials work and sound good before trying anything else In order this is:
+- If running short on time, you **need to prioritise what to get working through the sound desk**. Stuff down the bottom of the list is 'nice to have's'. It's worth making sure the essentials work and sound good before trying anything else In order this is:
   1. Vocal Mic
   2. Keys
   3. Horn Mics
@@ -154,8 +154,6 @@ I'll writeup a guide shortly, but the concept is explained in [This Video](https
   7. Snare
   8. In Ear Monitor
   9. Recording
-
--
 
 
 ## Troubleshooting
