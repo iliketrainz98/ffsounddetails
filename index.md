@@ -140,6 +140,8 @@ I'll writeup a guide shortly, but the concept is explained in [This Video](https
 3. *(Optional)* **Save** your current snapshot
 4. **Turn off** the mixer
 
+**WARNING: Unplugging the mixer before the speakers will result in a very large bang which is horrible and can break the speakers. Please be very careful when packing down to ensure this does not happen**
+
 
 ## Top Tips:
 - Keep the mixer app up throughout the gig
@@ -164,6 +166,8 @@ I'll writeup a guide shortly, but the concept is explained in [This Video](https
 2. Is the DCA (e.g. the `Band` Fader) **turned down/muted**?
 3. Is the **channel muted**?
 4. Are the **speakers turned on/plugged in**?
+5. (Drum Overheads and Keys Only) Is **phantom power switched on?**. This is needed to power the DI box.
+**Important: Mute the channel before turning on phantom power to avoid a large bang**
 
 If no signal is being detected, there is an issue with the source:
 1. Is the source **plugged in** (mic, instrument etc.) to the **correct channel**?
