@@ -37,6 +37,7 @@ You need the following for a FF Gig:
   - All:
       - 1x Phone Charger
     - Matt Hill:
+      - 2x SM57 Mic Clips??!
       - ~~2x SM57's (Horns)~~ *1x SM57 (Until Matt Get's His Back)*
       - 1x SM58 (Vocal)
       - ~~2x Mic Stands~~ *1x Until Matt Retreives his from HPOB*
