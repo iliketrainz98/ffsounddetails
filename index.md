@@ -66,13 +66,13 @@ You need the following for a FF Gig **Read ALL Sections to ensure you don't leav
       - *Instrument Stand (If Relevent)*
       - *Music Stand (If Relevent)*
       - *Music (If Relevent)*
-    - Matt Hill:
-      - 1x SM57 + Clip
-      - 1x Mic Stand
-    - Tom Gill
-      - 1x Sound Desk Including:
-        - 1x Backup Router (Inside)
-      - 1x Mic Stand (If MD'ing)
+  - Matt Hill:
+    - 1x SM57 + Clip
+    - 1x Mic Stand
+  - Tom Gill
+    - 1x Sound Desk Including:
+      - 1x Backup Router (Inside)
+    - 1x Mic Stand (If MD'ing)
 
 ## Patch List
 ### Inputs
