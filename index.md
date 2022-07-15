@@ -13,8 +13,8 @@ You need the following for a FF Gig **Read ALL Sections**:
   - 1x Bass Amp Only
   - 1x Guitar Amp Only
 
-- **Felonious Gear** - Check all contents is in here before a gig!
-  - HARDWARE BAG CONTENTS
+- **Felonious Gear**
+  - HARDWARE BAG CONTENTS - Check all contents is in here before a gig!
     - AUDIO CABLES
       - Bass Loom: Bass XLR, Tom IEM Cable
       - Drum Loom 1: Snare XLR, Kick XLR, Max IEM Cable
@@ -69,7 +69,6 @@ You need the following for a FF Gig **Read ALL Sections**:
         - 1x Backup Router (Inside)
       - 1x Mic Stand (If MD'ing)
 
-
 ## Patch List
 ### Inputs
 All inputs plug in at rear of the mixer. Use the snake to connect the Vocals, Trumpet and Sax and connect the snake to the mixer. *Using the patch list below, channel 1 on the snake is 11 on the mixer, 2-->12, 3-->13 etc.*
@@ -86,8 +85,8 @@ All inputs plug in at rear of the mixer. Use the snake to connect the Vocals, Tr
 | 6  | Rack Tom          |
 | 7  | Floor Tom         |
 | 8  | Guitar            |
-| 9  | Keys L/Mono       |
-| 10 | Keys R (Optional) |
+| 9  | Keys L            |
+| 10 | Keys R            |
 | 11 | Vocal             |
 | 12 | Trumpet           |
 | 13 | Sax               |
@@ -130,16 +129,16 @@ If you are using a monitor wedge instead of in-ear monitors for Vocal/Horns, the
 7. (*Optional - If Time*) Ring out the system (see below)
 
 ### Plugging In
-Plug each input into the channel as labelled.
+Plug each input into the channel as labelled. Note: The Keys and Bass need to be plugged in via DI boxes. See below:
 
 #### DI Box Settings:
-- BEHRINGER STEREO DI:
+- BEHRINGER STEREO DI (Keys):
   - Attenuation: 0 dB
   - Mode: 2-CH
   - Ground: GND
   - Battery: OFF
   *Note: Red Light will illuminate if connected properly*
-- MILLENIUM DI-E
+- MILLENIUM DI-E (Bass):
   - Ground Lift: I
   - Instrument/Speaker: I
 
