@@ -2,7 +2,7 @@
 Here are some details of the procedures of how to use the sound system. Please call me if there are ever big issues! xx
 
 ## Kit List
-You need the following for a FF Gig **Read ALL Sections**:
+You need the following for a FF Gig **Read ALL Sections to ensure you don't leave something behind**:
 
 - **Big Band Gear**
   - *1x Drum Kit (If Not Using Max's)*
@@ -57,10 +57,15 @@ You need the following for a FF Gig **Read ALL Sections**:
   - 1x Horn/Vocal Monitor
 
 
-- **Personal Gear** If one of these people isn't on the gig, you need to borrow their gear or source from elsewhere
+- **Personal Gear** If one of these people isn't on the gig, **you need to borrow their gear or source from elsewhere!**
   - All:
+      - In Ear Monitors
       - 1x Phone Charger
       - 7x Setlists
+      - *Instrument (If Relevent)*
+      - *Instrument Stand (If Relevent)*
+      - *Music Stand (If Relevent)*
+      - *Music (If Relevent)*
     - Matt Hill:
       - 1x SM57 + Clip
       - 1x Mic Stand
