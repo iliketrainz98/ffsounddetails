@@ -2,52 +2,72 @@
 Here are some details of the procedures of how to use the sound system. Please call me if there are ever big issues! xx
 
 ## Kit List
-You need the following for a FF Gig:
+You need the following for a FF Gig **Read ALL Sections**:
 
 - **Big Band Gear**
-  - *1x SM57 (Until Matt Get's His Back)*
-  - XLR Cables (Spares are always helpful!)
-    - 12x Normally
-  - 2x Jack Cables
-  - 1x Kick Mic
-  - 1x Snare Mic
-  - 1x Drums
+  - *1x Drum Kit (If Not Using Max's)*
   - 1x Keys
     - Keys Stand
     - Keys Power
     - Keys Sustain Pedal
-  - 1x Bass Amp
-  - 1x Guitar Amp
-  - 1x Snake
+  - 1x Bass Amp Only
+  - 1x Guitar Amp Only
 
-- **Felonious Gear**
+- **Felonious Gear** - Check all contents is in here before a gig!
+  - HARDWARE BAG CONTENTS
+    - AUDIO CABLES
+      - Bass Loom: Bass XLR, Tom IEM Cable
+      - Drum Loom 1: Snare XLR, Kick XLR, Max IEM Cable
+      - Drum Loom 2 (Recording): OH L XLR, OH R XLR, Rack XLR, Floor XLR
+      - Guitar Loom: Guitar Jack to XLR, Henry IEM Cable
+      - Keys Loom 1: Keys L XLR, Keys R XLR, Dom IEM Cable
+      - Keys Loom 2: Keys L Jack, Keys R Jack
+      - Vocal XLR
+      - Grace IEM Cable
+      - Sax XLR
+      - Trumpet XLR
+      - MD XLR
+      - Main R XLR
+      - Main L XLR
+      - Wedge XLR to Jack
+      - Snake Cable (Cat 6)
+      - Spare Jack
+      - 2x Spare XLR
+    - MISC AUDIO
+      - Millennium Mono DI box
+      - Behringer Stereo DI Box
+      - CAT Snake 3FB
+    - EXTENSION REELS
+      - 2x Extension Reel (20m)
+    - POWER CABLES (Sainsbury's Bag)
+      - 2x 6 Gang Black Extension Lead (6m)
+      - 3x 5m Kettle Lead (Main L, Main R, Wedge)
+      - 3x Short Kettle Lead (Guitar Amp, Bass Amp, Spare)
+    - COMPLETE AKG DRUM MIC SET (Including Mic Clips)
+    - GATOR MICROPHONE CASE
+      - 2x SM58 (Vocal, MD)
+      - 1x SM57 (Trumpet, Sax)
+      - 3x Shure A25D Mic Clips (With Adaptor in Bottom)
+  - MIC STAND BAG
+    - 3x Tall Mic Stand (Vocal, OH L, OH R) *Wil be 4x shortly for sax, awaiting purchase*
+    - 1x Short Mic Stand (Kick Drum)
   - 2x Lighting Gear + Stands
-  - 2x Speaker Stands (Inc Case)
+  - 2x Speaker Stands + Bag
   - 2x Speakers
   - 1x Horn/Vocal Monitor
-  - ~~1x Tall Mic Stand (Vocal)~~ *2x Tall Mic Stand (Vocal + Sax) until Matt get's his stand back from BH*
-  - 1x Short Mic Stand (Kick Drum)
-  - 2x Extension Reel (20m)
-  - 1x White Power Strip
-  - 2x Long Kettle Lead (Labelled Speakers)
-  - 3x Short Kettle Lead (Labelled Monitor, Guitar Amp, Bass Amp)
-  - ~~2x SM58 (Vocal + MD)~~ *Until Further Notice, use Big Band's*
 
-- **Personal Gear**
+
+- **Personal Gear** If one of these people isn't on the gig, you need to borrow their gear or source from elsewhere
   - All:
       - 1x Phone Charger
+      - 7x Setlists
     - Matt Hill:
-      - 2x SM57 Mic Clips??!
-      - ~~2x SM57's (Horns)~~ *1x SM57 (Until Matt Get's His Back)*
-      - 1x SM58 (Vocal)
-      - ~~2x Mic Stands~~ *1x Until Matt Retreives his from HPOB*
-      - 1x Jack to Female XLR (For Connecting Monitor)
-      - Long Jack Cables
-      - Spare XLR's
+      - 1x SM57 + Clip
+      - 1x Mic Stand
     - Tom Gill
       - 1x Sound Desk Including:
-        - 1x Router (Inside)
-        - 4x In Ear Monitor Extension Cables
+        - 1x Backup Router (Inside)
+      - 1x Mic Stand (If MD'ing)
 
 
 ## Patch List
@@ -109,7 +129,19 @@ If you are using a monitor wedge instead of in-ear monitors for Vocal/Horns, the
   *Note: In Ear Monitors are turned on by default, but the 'Wedge' send master fader is turned down by default (to avoid feedback). You can adjust the master volume under `Mix` in the mixing station app, or the master fader in MX-Q*
 7. (*Optional - If Time*) Ring out the system (see below)
 
+### Plugging In
+Plug each input into the channel as labelled.
 
+#### DI Box Settings:
+- BEHRINGER STEREO DI:
+  - Attenuation: 0 dB
+  - Mode: 2-CH
+  - Ground: GND
+  - Battery: OFF
+  *Note: Red Light will illuminate if connected properly*
+- MILLENIUM DI-E
+  - Ground Lift: I
+  - Instrument/Speaker: I
 
 ### Soundcheck
 1. For **each** channel/instrument:
