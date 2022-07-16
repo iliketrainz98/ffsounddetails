@@ -60,7 +60,7 @@ You need the following for a FF Gig **Read ALL Sections to ensure you don't leav
 - **Personal Gear** If one of these people isn't on the gig, **you need to borrow their gear or source from elsewhere!**
   - All:
       - In Ear Monitors
-      - 1x Phone Charger
+      - Phone Charger
       - 7x Setlists
       - *Instrument (If Relevent)*
       - *Instrument Stand (If Relevent)*
