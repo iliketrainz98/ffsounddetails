@@ -128,7 +128,7 @@ If you are using a monitor wedge instead of in-ear monitors for Vocal/Horns, the
 2. **Connect the speakers**, switch on, and make sure these are at the **correct volume** (knob pointing to **12 o'clock**).
 3. Connect to the mixer using the app and load the `FF Master - MM YY` snapshot (folder icon to the top right) in the Mixing Station App.
 4. Turn up the L/R fader to **`-15`**. *This is found under* `FX Snd/Main` *on the right handside. If you need more volume, turn the speakers up.*
-5. Unmute the Aux channel (ensure the `Mute Enable` button is highlighted), and check you get volume out of both speakers. This is found under `Aux/FX Ret` on the right hand-side. (You can breathe now)
+5. Unmute the Aux channel (ensure the `Mute Enable` button is highlighted), and check you get volume out of both speakers. This is found under `Aux/FX Ret` on the right hand-side. (You can breathe now) *Note: I like to play a  reference track (a track that I know well) so I can see how the PA sounds/the room sounds. That way if there is an issue with the speakers, or the room is tricky, you will know before sound-checking the band and can potentially  be resolved*.
 6. (*Optional - If Using a Monitor Wedge*) Select the `Wedge` mix on the mixing station app, and turn up the `Aux` channel to check you have music playing. **Note: Make sure you turn down the `Aux` channel on the Wedge send immediately after, otherwise your break music will play through the wedge when you begin your set!**
   *Note: In Ear Monitors are turned on by default, but the 'Wedge' send master fader is turned down by default (to avoid feedback). You can adjust the master volume under `Mix` in the mixing station app, or the master fader in MX-Q*
 7. (*Optional - If Time*) Ring out the system (see below)
@@ -148,7 +148,8 @@ Plug each input into the channel as labelled. Note: The Keys and Bass need to be
   - Instrument/Speaker: I
 
 ### Soundcheck
-1. For **each** channel/instrument:
+1. Make sure all the **Drums, Front Line and Band DCA's** are all at (**`0`**)
+2. For **each** channel/instrument:
     1. Ensure the channel is **muted**
     2. Get player to **play/sing** at their **performance volume**. *NB: for drums, ask for single hits on each drum e.g. Kick, Snare etc., and then the whole kit*
     3. Set the gain so that the meter to the side of the fader is **on average `0`**. You can do this by tapping once on the channel name (e.g. `Kick`) and you should find gain on the top left hand side.
@@ -156,8 +157,8 @@ Plug each input into the channel as labelled. Note: The Keys and Bass need to be
       *Side note: Singers/Horns will get louder as they warm up so better to leave a little more headroom (decrease the gain) compare to other instruments who can more accurately determine their loudest volume*
     5. **Unmute** the channel
     6. Adjust the volume in the room until the mix feels right.
-2. Start by getting individual instruments sounding good, and then adjust the mix until you are happy
-3. Save the current settings as a **snapshot**. This is crucial in case there is an issue and you need to revert settings before the start of the gig!
+3. Start by getting individual instruments sounding good, and then adjust the mix until you are happy
+4. Save the current settings as a **snapshot**. This is crucial in case there is an issue and you need to revert settings before the start of the gig!
 
 *Note: By pressing 'Gain' on the right hand side changes the faders to adjust the gain of each channel. This saves you time having to go in an adjust the gain of each instrument by tapping on the channel name.*
 
