@@ -3,4 +3,4 @@ Use the following links to subscribe to the new Felonious Funk Calendar. This wi
 
 [iOS Devices (iPhone, iPad, iMac)](webcal://ics.teamup.com/feed/ksn848cx2ktvwqp6qu/0.ics)
 
-[Google Calendar Online](https://calendar.google.com/calendar/render?cid=ics.teamup.com/feed/ksn848cx2ktvwqp6qu/0.ics)
+[Google Calendar Online](https://calendar.google.com/calendar/u/0/r?cid=webcal://ics.teamup.com/feed/ksn848cx2ktvwqp6qu/0.ics)
