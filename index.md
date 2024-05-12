@@ -4,57 +4,42 @@ Here are some details of the procedures of how to use the sound system. Please c
 ## Kit List
 You need the following for a FF Gig **Read ALL Sections to ensure you don't leave something behind**:
 
-- **Big Band Gear**
-  - *1x Drum Kit (If Not Using Max's)*
-  - 1x Keys
-    - Keys Stand
-    - Keys Power
-    - Keys Sustain Pedal
-  - 1x Bass Amp Only
-  - 1x Guitar Amp Only
-
 - **Felonious Gear**
   - HARDWARE BAG CONTENTS - Check all contents is in here before a gig!
     - AUDIO CABLES
-      - Bass Loom: Bass XLR, Tom IEM Cable
+      - Bass Loom: Bass XLR, Tom IEM Cable, MD XLR
       - Drum Loom 1: Snare XLR, Kick XLR, Max IEM Cable
-      - Drum Loom 2 (Recording): OH L XLR, OH R XLR, Rack XLR, Floor XLR
+      - Drum Loom 2: OH L XLR, OH R XLR, Rack XLR, Floor XLR
       - Guitar Loom: Guitar Jack to XLR, Henry IEM Cable
       - Keys Loom 1: Keys L XLR, Keys R XLR, Dom IEM Cable
       - Keys Loom 2: Keys L Jack, Keys R Jack
-      - Vocal XLR
-      - Grace IEM Cable
-      - Sax XLR
-      - Trumpet XLR
-      - MD XLR
+      - Vocal Loom: Vocal XLR, Grace IEM Cable
+      - Trumpet Loom: Trumpet XLR, Matt IEM Cable
+      - Sax Loom: Sax XLR, Amy IEM Cable
       - Main R XLR
       - Main L XLR
-      - Wedge XLR to Jack
-      - Snake Cable (Cat 6)
       - Spare Jack
       - 2x Spare XLR
     - MISC AUDIO
       - Millennium Mono DI box
       - Behringer Stereo DI Box
-      - CAT Snake 3FB
     - EXTENSION REELS
       - 2x Extension Reel (20m)
     - POWER CABLES (Sainsbury's Bag)
       - 2x 6 Gang Black Extension Lead (6m)
-      - 3x 5m Kettle Lead (Main L, Main R, Wedge)
+      - 3x 5m Kettle Lead (Main L, Main R, Spare)
       - 3x Short Kettle Lead (Guitar Amp, Bass Amp, Spare)
     - COMPLETE AKG DRUM MIC SET (Including Mic Clips)
-    - GATOR MICROPHONE CASE
+    - HARD FLIGHT CASE
       - 2x SM58 (Vocal, MD)
       - 1x SM57 (Trumpet, Sax)
-      - 3x Shure A25D Mic Clips (With Adaptor in Bottom)
-  - MIC STAND BAG
-    - 3x Tall Mic Stand (Vocal, OH L, OH R) *Wil be 4x shortly for sax, awaiting purchase*
+      - 7x Behringer PM1 IEM Belt Backs
+  - MIC STAND BAG *Including Clips for Vocal Mics*
+    - 5x Tall Mic Stand (Vocal, Sax, Trumpet, OH L, OH R)
     - 1x Short Mic Stand (Kick Drum)
-  - 2x Lighting Gear + Stands
+  - 2x Lighting Gear + Stands + Cases
   - 2x Speaker Stands + Bag
   - 2x Speakers
-  - 1x Horn/Vocal Monitor
 
 
 - **Personal Gear** If one of these people isn't on the gig, **you need to borrow their gear or source from elsewhere!**
@@ -73,10 +58,17 @@ You need the following for a FF Gig **Read ALL Sections to ensure you don't leav
     - 1x Sound Desk Including:
       - 1x Backup Router (Inside)
     - 1x Mic Stand (If MD'ing)
+  - Max Bloom:
+    - 1x Drum Kit
+  - Dom Hewson
+    - 1x Keys
+      - Keys Stand
+      - Keys Power
+      - Keys Sustain Pedal
 
 ## Patch List
 ### Inputs
-All inputs plug in at rear of the mixer. Use the snake to connect the Vocals, Trumpet and Sax and connect the snake to the mixer. *Using the patch list below, channel 1 on the snake is 11 on the mixer, 2-->12, 3-->13 etc.*
+All inputs plug in at rear of the mixer.
 
 **NOTE: Channel numbers to the RIGHT of the plug**
 
@@ -98,8 +90,8 @@ All inputs plug in at rear of the mixer. Use the snake to connect the Vocals, Tr
 | 14 | MD Mic            |
 | 15 | Click             |
 | 16 | Crowd Mic         |
-| 17 | Aux L             |
-| 18 | Aux R             |
+| 17 | Aux L (Bluetooth) |
+| 18 | Aux R (Bluetooth) |
 
 ### In-Ear Monitor Outputs
 Plug in the headphone extensions at the front as per the labels.
@@ -114,9 +106,9 @@ Make sure you have the right mix on the app, and plug in:
 | 3  | Henry                  |
 | 4  | Dom                    |
 | 5  | Grace                  |
-| 6  | Spare (Grace's Mix)    |
-| 7  | ~~Matt (Horns)~~ Use Wedge Instead (See Below)     |
-| 8  | ~~Amy (Horns)~~  Use Wedge Instead (See Below)      |
+| 6  | *Spare (Grace's Mix)*  |
+| 7  | Matt (Horns)           |
+| 8  | Amy (Horns)            |
 
 #### Monitor Wedge
 If you are using a monitor wedge instead of in-ear monitors for Vocal/Horns, then you need to plug into `Aux 6` on the back of the mixer.
